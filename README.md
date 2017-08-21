@@ -100,3 +100,5 @@ Website output formats
 
 - mkdocs.org
 - https://github.com/rocadocs/rocadocs
+
+more on https://gist.github.com/rochacbruno/1689c849f3ef54086772c410d77a82de
