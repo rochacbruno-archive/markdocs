@@ -1,3 +1,6 @@
+"""Markdocs extracts markdown from Python source file comments and outputs structured documentation"""
+__version__ = '0.1.0'
+
 """!
 # Why Markdocs
 
